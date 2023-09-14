@@ -10,3 +10,12 @@ Para la elaboración del dashboard, _SCORING.pbix_, se realizó la integración 
   - Archivos csv con datos sobre movimiento de clientes.
   - DER
   - script sql para creación de BD.
+
+
+### **Autores**
+
+* Elman Joel García Díaz
+* Carlos Patiño
+* Ruth Letizia Vargas
+* Rodrigo Vega
+
